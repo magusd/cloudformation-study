@@ -1,0 +1,1 @@
+aws cloudformation create-stack --stack-name s3-lobs --template-body file://s3.yml
